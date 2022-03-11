@@ -44,6 +44,8 @@ if __name__ == "__main__":
 ```
 
 9.Markdown formula.  
+
+Note: github has not support show the latex formula, we can add the tool **MathJax Plugin for Github** to the chrome.  
 $$
 a^2 + b^2 = c^2
 $$
@@ -64,9 +66,8 @@ $$
 - [ ] Task 1  (Task status is not finished.)  
 - [x] Task 2  (Task status is finished.)
 
-13.Markdown ordered list.  
+13.Markdown add the link.  
 
-[1]: https://www.baidu.com/	"baidu"
-[]: 
-[]: 
+[1women]: https://www.baidu.com/	"baidu"
+[2]: https://www.baidu.com/
 
