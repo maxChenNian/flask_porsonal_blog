@@ -35,10 +35,38 @@ This is markdown notes, these notes only in the markdown original code, but don'
 | :----- | ----- | ------- | ---- | ----- | ----- |
 | 1      | 2     | 3       | 4    | 5     | 6     |
 
-7.Markdown sheet.  
+8.Markdown sheet.  
+
 ```python
 import numpy as np
 if __name__ == "__main__":
     print("Hello Fang Chennian!")
 ```
+
+9.Markdown formula.  
+$$
+a^2 + b^2 = c^2
+$$
+
+10.Markdown ordered list.  
+1. Monday  
+2. Friday  
+3. Sunday 
+
+11.Markdown ordered list.  
+
+- Cat  
+
+- Dog
+
+12.Markdown task list.  
+
+- [ ] Task 1  (Task status is not finished.)  
+- [x] Task 2  (Task status is finished.)
+
+13.Markdown ordered list.  
+
+[1]: https://www.baidu.com/	"baidu"
+[]: 
+[]: 
 
