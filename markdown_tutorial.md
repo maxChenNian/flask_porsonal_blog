@@ -14,15 +14,12 @@ This is _italic font_ or _斜体文本_
 This is __bold font__ or __粗体文本__  
 This is ___italic  bold font___ or ___斜粗体文本___
 
-3.Markdown paragraph strikethrough.（删除线）
-
+3.Markdown paragraph strikethrough.（删除线）  
 This is ~~paragraph strikethrough~~.
 
-4.Markdown paragraph underline.
-
+4.Markdown paragraph underline.  
 This is <u>paragraph strikethrough</u>.
 
-5.Markdown paragraph footnote.
-
-This is up footnote: [^youAreMyeye2021]
+5.Markdown paragraph footnote.  
+This is up footnote: [^youAreMyeye2021]  
 This is up footnote: [^youAreMyeye2021]
