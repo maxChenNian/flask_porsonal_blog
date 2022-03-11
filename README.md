@@ -20,8 +20,7 @@ Markdown paragraph warp: add a blank line after the paragraph.
 
 2.Markdown font.
 
-This is _italic font_ or _斜体文本_
-
+This is _italic font_ or _斜体文本_  
 This is __bold font__ or __粗体文本__
 
 This is ___italic  bold font___ or ___斜粗体文本___
