@@ -32,7 +32,7 @@ This is ~~paragraph strikethrough~~.
 
 4.Markdown paragraph underline.
 
-This is <u>paragraph strikethrough<u>.
+This is <u>paragraph strikethrough</u>.
 
 5.Markdown paragraph footnote.
 
