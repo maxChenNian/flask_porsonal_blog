@@ -24,7 +24,7 @@ This is <u>paragraph strikethrough</u>.
 This is end footnote: [^youAreMyeye2021] 
 
 [^youAreMyeye2021]:This is behinning footnote 
-
+[^youAreMyeye2021]:This is behinning footnote 
 
 <!--我们-->
 
