@@ -20,8 +20,8 @@ This is ~~paragraph strikethrough~~.
 4.Markdown paragraph underline.  
 This is <u>paragraph strikethrough</u>.
 
-5.Markdown paragraph footnote.  
-This is up footnote: [^youAreMyeye2021]  
+5.Markdown paragraph footnote. 
+This is up footnote: [^youAreMyeye2021] 
 This is up footnote: [^youAreMyeye2021]
 
 
