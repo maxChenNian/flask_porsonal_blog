@@ -25,6 +25,20 @@ This is end footnote: [^youAreMyeye2021]
 
 [^youAreMyeye2021]:This is behinning footnote 
 
-6.Markdown notes.
+6.Markdown notes.  
+This is markdown notes, these notes only in the markdown original code, but don't show in the output markdown text.
 <!--注释，还没有找到合适注释功能的使用场景-->
+
+7.Markdown sheet.  
+
+| monkey | tiger | chicken | fish | horse | wheel |
+| :----- | ----- | ------- | ---- | ----- | ----- |
+| 1      | 2     | 3       | 4    | 5     | 6     |
+
+7.Markdown sheet.  
+```python
+import numpy as np
+if __name__ == "__main__":
+    print("Hello Fang Chennian!")
+```
 
