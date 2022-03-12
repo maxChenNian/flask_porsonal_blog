@@ -31,8 +31,7 @@
 
 ### a001_004_example_flask_tutorial
 
-- [第 10 章：组织你的代码](https://read.helloflask.com/c10-organize)
-
+- [第 10 章：组织你的代码](https://read.helloflask.com/c10-organize)  
 ```shell
 cd 001_004_example_flask_tutorial
 flask initdb --drop 
