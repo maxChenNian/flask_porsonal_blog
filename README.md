@@ -33,7 +33,14 @@
 
 - [第 10 章：组织你的代码](https://read.helloflask.com/c10-organize)
 
-```python
-
+```shell
+cd 001_004_example_flask_tutorial
+flask initdb --drop 
+flask admin
+flask run
+python test_watchlist.py
+coverage run --source=watchlist test_watchlist.py
+coverage report
+coverage html
 ```
 
