@@ -32,6 +32,7 @@
 ### a001_004_example_flask_tutorial
 
 - [第 10 章：组织你的代码](https://read.helloflask.com/c10-organize)  
+- [第 11 章：部署上线](https://read.helloflask.com/c11-deploy)
 ```shell
 cd 001_004_example_flask_tutorial
 flask initdb --drop 
@@ -43,3 +44,4 @@ coverage report
 coverage html
 ```
 
+使用 [PythonAnywhere](https://www.pythonanywhere.com) 部署程序
