@@ -3,8 +3,6 @@
 
 
 
-
-
 ## Flask 入门教程
 
 ### a001_000_example_flask_tutorial
@@ -45,3 +43,21 @@ coverage html
 ```
 
 使用 [PythonAnywhere](https://www.pythonanywhere.com) 部署程序
+
+
+
+## Flask Web开发实战
+### a002_000_example_flask_development
+
+第一章
+
+在一个Web应用里，客户端和服务器上的Flask程序的交互可以简单
+概括为以下几步： 
+
+- 1）用户在浏览器输入URL访问某个资源。
+- 2）Flask接收用户请求并分析请求的URL。
+- 3）为这个URL找到对应的处理函数。 
+
+- 4）执行函数并生成响应，返回给浏览器。
+
+- 5）浏览器接收并解析响应，将信息显示在页面中。
